@@ -1,7 +1,7 @@
 {
   "name": "webpack-plugin",
   "version": "1.0.0",
-  "description": "how to write a webpack plugin",
+  "description": "webpack discovery and write a webpack plugin",
   "main": "",
   "scripts": {
     "build": "webpack"
